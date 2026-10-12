@@ -1,0 +1,46 @@
+Create a premium, professional advisory landing page for Ambient Systems Limited (Hong Kong, Business Registration #75933810, founded 2023). Modern fintech-advisory aesthetic with deep navy background, sharp red accents (inspired by Hong Kong flag), and clean white typography. High-end consulting feel — think McKinsey digital or top-tier boutique strategy firms. Fully responsive desktop-first design.
+
+Page structure (top to bottom):
+
+1. Hero Section (full width, dark navy with subtle tech pattern):
+   - Top navigation: Logo (Ambient Systems Limited with red Hong Kong orchid icon), links to Focus Areas, Case Studies, Approach, and "Book a Call" button.
+   - Headline: "High-Ticket FP&A + AI Optimization for Asia’s Most Competitive Industries"
+   - Subheadline: "Borderless advisory delivering measurable financial and operational ROI through proprietary AI optimization (WIPO WO[redacted]) and deep industry expertise in transportation, commercial real estate, and vertical farming."
+   - Right side: Clean mockup or illustration representing AI + finance dashboard.
+   - Primary CTA: "Book a 30-Minute Strategy Call" (red accent button).
+   - Trust line: "Official delegate at SXSW 2024 • Panasonic Deep Tech Innovation Challenge Winner • NUS GRIP Alum"
+
+2. Company Overview + Focus Areas:
+   - Short paragraph positioning Ambient Systems Limited as the Asia hub for independent international technology advisory focused on financial performance in smart infrastructure, transportation, CRE, and construction.
+   - Visual: Clean 2x2 matrix showing Focus Areas (Renewable Energy, AgTech / Indoor Farming, Essential Retail / Supply Chain, Core Services: AI-driven optimization, FP&M frameworks, IP strategy, Program design & LCOE generation).
+
+3. Case Study (featured, high impact):
+   - Headline: "End-to-End Climate Management & Financial Optimization for AgTech (Vertical / Indoor Farming)"
+   - Challenge: Indoor farmers facing crop loss and high operational costs due to fragmented manual processes.
+   - Approach: Defined full-stack ML solution, secured pilot, developed 24% improvement model.
+   - Outcomes: 24% ROI, rapid 4-6 month payback, secured commercial LOIs, patent strategy defined.
+   - Visual: Vertical farming facility photo + dashboard mockup.
+
+4. Previous Experience / Proof Points (timeline or grid):
+   - Distributed Mining Company – 12% sustained reduction in global energy costs
+   - Conflict Minerals – Led analysis under SEC regulatory deadline
+   - Image Neural Network Startup – Built high-accuracy AI vision model
+   - Present each as clean cards with Challenge → Action → Outcome format.
+
+5. Our Approach (Explore → Prototype → Iterate):
+   - Visual circular flow diagram.
+   - Explore: 30-minute call
+   - Prototype: Fixed-price proposal in 48 hours
+   - Iterate: 10-60 day delivery with clear outcomes
+
+6. Values (4 icon cards):
+   - Innovation, Value Creation, Efficiency, Expertise
+
+7. Global Professional Networks:
+   - Logos: Upwork, Catalant, Freelancer (verified profiles for standardized procurement)
+
+8. Final CTA Section:
+   - "Ready to Optimize Your Operations?"
+   - Two buttons: "Send Inquiry" and "Book a Call"
+
+Design notes: Use a sophisticated dark theme with sharp red accents for CTAs and key highlights. Professional typography, generous spacing, high-quality imagery (modern offices, technology, Asia infrastructure). Make the page feel premium, credible, and conversion-focused for high-ticket advisory services. Ensure it complements the Quebec SaaS page in overall ecosystem feel while maintaining distinct advisory positioning.

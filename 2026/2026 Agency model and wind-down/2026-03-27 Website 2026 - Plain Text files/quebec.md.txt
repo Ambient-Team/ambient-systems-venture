@@ -1,0 +1,129 @@
+# Quebec SaaS Product – Ambient
+
+**Real-Time Financial & Operational Intelligence for Sustainable Industries**
+
+Live multi-tenant SaaS dashboard built on GCP, Firebase, and React. Unified financial planning, operational metrics, compliance tools, AI recommendations, and intelligent alerts.
+
+**Solutions Flux D’IA Inc.**  
+NEQ (Corporation Number) 1179623281 | Incorporated 2024 | Montreal, Quebec
+
+## The Problem
+
+- Fragmented data across silos
+- No real-time visibility into financial health, operational performance, or compliance status
+- High compliance risk and mounting pressure for net-zero decarbonization targets
+
+## Introducing Ambient
+
+Ambient is a unified, real-time SaaS dashboard that integrates financial planning, operational metrics, compliance tools, and AI recommendations into one intuitive platform.  
+
+Built natively on Firebase with a clean React + Material-UI front-end, it delivers actionable intelligence for sustainable industries.
+
+**All core IP and optimization models are held personally by the founder (Serbia entity) and actively licensed to both operating entities.**
+
+## Key Features
+
+- Unified Overview: Live financial & operational tables, alerts, camera feeds, AI recommendations
+- Financial Planning Suite: Goal-setting, planning canvas, action-plan workflows
+- Compliance Hub: Accounting management, regulatory reporting, instant request workflows
+- AI Recommendations: Confidence-scored insights tied to user metrics and industry benchmarks
+- Intelligent Alerts: Real-time, date-filtered alerts via Cloud Functions with in-app history
+- Data Library: Centralized repository auto-linked to metrics with live status indicators
+
+## How It Works
+
+1. Onboard – Start in under 3 minutes  
+2. Select Metrics – Auto-populate Data Library  
+3. Monitor – Live AI overview and alerts  
+4. Act & Govern – One-click actions and reports  
+
+The entire journey lives inside a single authenticated React dashboard — no spreadsheets, no separate compliance modules, no delayed vendor tickets.
+
+## Who It’s Built For
+
+- Primary Buyers: Head of Finance, Director of Operations, Sustainability Lead  
+- Industries: Transportation, Real Estate, Vertical Farming, Facilities Management, Construction, Pharmaceuticals, Financial Services  
+- Company Size: Mid-market to enterprise (50–5,000 employees)
+
+## Use Cases – See How Ambient Helps Your Industry Compete
+
+- Vertical Farming  
+- Commercial Real Estate  
+- Facilities Management  
+- Construction  
+- Pharmaceuticals  
+- Financial Services  
+
+## Unique Value Proposition
+
+Ambient is the only platform that fuses financial metrics, operational data, compliance tools, and AI recommendations into a single real-time workspace purpose-built for sustainability-driven industries.
+
+1. Select Goals  
+2. Link Live Data  
+3. Receive AI Insights  
+4. Request Services  
+
+## Pricing & Business Model
+
+- **Basic** – Free: Core overview, limited metrics, alerts, Data Library  
+- **Pro** – $49–99/user/mo: Unlimited metrics, full planning suite, AI recommendations, compliance tools  
+- **Enterprise** – Custom: White-label, bulk onboarding, custom AI training, SLA-backed fulfillment  
+
+Product-led growth via free onboarding + inside-sales for Pro/Enterprise + partnership channel with decarbonization consultancies.
+
+## Plan Features
+
+| Features                          | Ambient Core | Ambient Ascend | Ambient Ascend AI |
+|-----------------------------------|--------------|----------------|-------------------|
+| Cloud-Based Web Platform          | ✓            | ✓              | ✓                 |
+| Financial Metrics                 | ✓            | ✓              | ✓                 |
+| Data Upload                       | ✓            | ✓              | ✓                 |
+| Dashboard Visualization           | ✓            | ✓              | ✓                 |
+| Export (pdf, csv)                 | ✓            | ✓              | ✓                 |
+| Financial Plan Inputs             | ✓            | ✓              | ✓                 |
+| Operational Metrics               |              | ✓              | ✓                 |
+| Data Connection                   |              | ✓              | ✓                 |
+| AI-supported Data Verification    |              |                | ✓                 |
+| AI-supported Financial Planning   |              |                | ✓                 |
+
+## Vision & Roadmap
+
+1. Data Selection & Action Plan – Full rollout of scaffolded modules  
+2. Predictive AI Engine – Decarbonization forecasting and expanded recommendations  
+3. Compliance Marketplace – Pre-vetted consulting and compliance services  
+4. Global Scale – Multi-entity support, industry expansion, autonomous carbon-accounting agents  
+
+## Trusted By & Past Partners
+
+- Toronto Public Library – Co-working & Canadian operations hub  
+- NSERC – R&D grant for transportation AI (via Centennial College)  
+- ACE (Action Community for Entrepreneurship) – Panasonic Deep Tech Innovation Challenge winner 2023  
+- NUS GRIP – Pre-seed (SG$100k, 2021) – Singapore entity closed 2025  
+- SMU BIG Incubator – Jan 2022 cohort  
+- OVH Cloud & Google Cloud – Startup programs & hackathon recognition  
+- Centennial College – Industry research partner (transportation domain, 2024)  
+- Founder University – Pre-accelerator cohort (Oct 2024 – Feb 2025)  
+- Enterprise Singapore & Invest Hong Kong – Market-expansion support  
+
+*Formerly supported by GRIP Singapore (closed 2025). Former Singapore entities closed in 2025; current operations via Hong Kong (advisory) and Quebec (SaaS) entities only.*
+
+## Ready to See It Live?
+
+Schedule a 15-minute live demo of your industry-specific dashboard — real-time metrics, AI recommendations, and compliance requests in action.
+
+**Sign Up Free**  
+**Request Pilot**  
+**Login to Dashboard**
+
+---
+
+**Quebec Office** (Solutions Flux D’IA Inc.)  
+925 Boulevard De Maisonneuve Ouest, Unite 106  
+Montreal, QC H3A 0A5  
+Canada
+
+
+---
+
+© 2026 Ambient Systems | ambientsystems.ai  
+Quebec | Hong Kong | Belgrade

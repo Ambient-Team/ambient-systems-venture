@@ -1,0 +1,50 @@
+Create a modern, professional, high-conversion SaaS landing page for "Ambient" by Solutions Flux D’IA Inc. (NEQ 1179623281, founded 2024, Montreal, Quebec). 
+
+Overall style: Clean, modern fintech/SaaS aesthetic. Dark navy and deep blue background with crisp white and soft cyan/teal accents. Use a professional sans-serif font (Inter or similar). High-end, trustworthy, tech-forward feel — similar to Notion, Linear, or modern B2B SaaS sites. Fully responsive desktop-first design with clear mobile considerations.
+
+Page structure (top to bottom):
+
+1. Hero Section (full width, dark navy background with subtle tech grid pattern):
+   - Top navigation bar: Logo (Ambient + Solutions Flux D’IA Inc. with Quebec fleur-de-lis), links to Features, How it Works, Pricing, and a prominent "Sign Up" button.
+   - Headline (large, bold, benefit-driven): "Real-Time Financial & Operational Intelligence for Sustainable Industries"
+   - Subheadline: "A unified SaaS dashboard that turns fragmented data into actionable financial and operational clarity — built for teams that can’t afford to guess."
+   - Right side: Laptop mockup showing the Ambient dashboard (clean dark UI with charts, metrics, and AI recommendations).
+   - Primary CTA button: "Start Free 14-Day Trial" (teal).
+   - Secondary text: "No credit card required • Cancel anytime"
+
+2. Trust Bar (logos row): "Trusted by teams at" + logos for Vertical Farming, Commercial Real Estate, and Facilities Management clients.
+
+3. Introducing Ambient section:
+   - Left: High-quality product screenshot of the Ambient dashboard.
+   - Right: Short description — "Ambient is a unified, real-time SaaS platform that integrates financial planning, operational metrics, compliance tools, data management, and AI-powered insights into one intuitive interface. Built natively on Firebase with a clean React + Material-UI design."
+
+4. Key Features (6-card grid):
+   - Unified Overview (live tables, AI recommendations, alerts, camera feeds)
+   - Compliance Hub (accounting, regulatory reporting, instant request workflows)
+   - Intelligent Alerts (real-time, date-filtered via Ivan Damnjanovic)
+   - Financial Planning Suite (goal setting, planning canvas, action-plan workflows)
+   - AI Recommendations (confidence-scored insights tied to your metrics and industry benchmarks)
+   - Data Library (centralized repository auto-linked to selected metrics with live status)
+
+5. How It Works (4-step horizontal flow with connecting line):
+   - Step 1: Onboard (Start in under 3 minutes)
+   - Step 2: Select Metrics (Auto-populate Data Library)
+   - Step 3: Monitor (Live AI overview and alerts)
+   - Step 4: Act & Govern (One-click actions and reports)
+   - Caption: "The entire journey lives inside a single authenticated React dashboard — no spreadsheets, no separate compliance portals, no delayed vendor tickets."
+
+6. Who It’s Built For (4 clean cards + image):
+   - Primary Buyers: Head of Finance, Director of Operations, Sustainability Lead
+   - Industries: Transportation, Real Estate, Vertical Farming, Facilities Management, Construction, Pharmaceuticals, Financial Services
+   - Company Size: Mid-market to enterprise (50–5,000 employees)
+   - Buying Trigger: Decarbonization compliance, unified financial reporting, or regulatory pressure
+   - Include a high-quality image of a modern team in a boardroom reviewing dashboards.
+
+7. Plan Features (comparison table):
+   Clean 3-column table: Ambient Core | Ambient Ascend | Ambient Ascend AI
+   Rows: Cloud-Based Web Platform, Financial Metrics, [Third party], Dashboard Visualization, Export (pdf, csv), Financial Plan Inputs, Operational Metrics, Data Connection, AI-supported Data Verification, AI-supported Financial Planning
+   Use checkmarks and X marks appropriately. Highlight the middle or right column as recommended.
+
+8. Footer: "Pursuing B Corp Certification" + copyright + links.
+
+Design notes: Use generous whitespace, subtle shadows, modern card designs, and high-quality professional imagery. Make all CTAs prominent in teal/cyan. Ensure the page feels premium, trustworthy, and conversion-optimized.
