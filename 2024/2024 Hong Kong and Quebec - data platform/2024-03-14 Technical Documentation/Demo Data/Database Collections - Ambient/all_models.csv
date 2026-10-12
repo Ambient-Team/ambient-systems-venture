@@ -1,0 +1,19 @@
+id,name,industry,description,createdAt,lastUpdated,notebookApi
+1,Equipment Optimization,Vertical Farming,Optimize equipment for cost savings in energy efficiency,2024-07-08,2024-07-08,https://api.example.com/notebook
+2,Building Energy Efficiency,Commercial Real Estate,Improve energy efficiency of buildings,2024-07-08,2024-07-08,https://api.example.com/notebook_cre
+3,Public Transport Optimization,Transportation,Optimize routes and schedules for public transport,2024-07-08,2024-07-08,https://api.example.com/notebook_transport
+4,Soil Moisture Regulation,Vertical Farming,Automate irrigation systems to optimize water usage,2024-07-08,2024-07-08,https://api.example.com/notebook_vf
+5,Smart Building Management,Commercial Real Estate,Integrate IoT devices for real-time building management,2024-07-08,2024-07-08,https://api.example.com/notebook_smart
+6,Fleet Maintenance Scheduler,Transportation,Schedule and manage maintenance for transport fleets,2024-07-08,2024-07-08,https://api.example.com/notebook_fleet
+7,Rental Profit Optimizer,Commercial Real Estate,Maximizes rental income and reduces costs,2024-01-01,2024-06-01,
+8,Operational Cost Reducer,Commercial Real Estate,Identifies inefficiencies in operations,2024-02-01,2024-06-01,
+9,Vacancy Rate Reduction,Commercial Real Estate,Strategies to reduce vacancies and maximize occupancy,2024-03-01,2024-06-01,
+10,Maintenance Scheduler,Commercial Real Estate,Optimal scheduling for property maintenance,2024-04-01,2024-06-01,
+11,Cash Flow Improvement Model,Commercial Real Estate,Increases cash flow through strategic financial planning,2024-05-01,2024-06-01,
+12,Fleet Fuel Efficiency Optimizer,Transportation,Optimizes routes and vehicle usage to reduce fuel costs,2024-07-08,2024-07-08,
+13,Demand Forecasting Model,Transportation,Predicts passenger demand to optimize scheduling,2024-07-08,2024-07-08,
+14,Asset Lifecycle Manager,Transportation,Manages the lifecycle of transport assets for maximum efficiency,2024-07-08,2024-07-08,
+15,Dynamic Pricing Model,Transportation,Adjusts pricing in real-time based on demand and other external factors,2024-07-08,2024-07-08,
+16,Safety Compliance Tracker,Transportation,Ensures compliance with safety regulations and standards,2024-07-08,2024-07-08,
+17,Customer Experience Enhancer,Transportation,Utilizes feedback and operational data to improve service quality,2024-07-08,2024-07-08,
+18,Cargo Optimization System,Transportation,Optimizes loading and unloading operations to improve turnaround times,2024-07-08,2024-07-08,

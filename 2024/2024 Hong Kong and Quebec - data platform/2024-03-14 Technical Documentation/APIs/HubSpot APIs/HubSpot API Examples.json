@@ -1,0 +1,149 @@
+// HubSpot API Object - Examples
+
+// Example request body: to create a new contact
+
+{
+    "properties": {
+      "email": "example@hubspot.com",
+      "firstname": "Jane",
+      "lastname": "Doe",
+      "phone": "[redacted]",
+      "company": "HubSpot",
+      "website": "hubspot.com",
+      "lifecyclestage": "marketingqualifiedlead"
+    }
+  }
+
+
+// Example request body: to associate a new contact with an existing company and email
+
+{
+    "properties": {
+      "email": "example@hubspot.com",
+      "firstname": "Jane",
+      "lastname": "Doe",
+      "phone": "[redacted]",
+      "company": "HubSpot",
+      "website": "hubspot.com",
+      "lifecyclestage": "marketingqualifiedlead"
+    },
+  "associations": [
+      {
+       "to": {
+          "id": 123456
+        },
+        "types": [
+          {
+            "associationCategory": "HUBSPOT_DEFINED",
+            "associationTypeId": 279
+          } ]
+      }, 
+      {
+       "to": {
+          "id": 556677
+        },
+        "types": [
+          {
+            "associationCategory": "HUBSPOT_DEFINED",
+            "associationTypeId": 197
+          } ]
+  }]
+  }
+
+// Example request body with record ID (current values) 
+{
+    "properties": [
+      "email",
+      "lifecyclestage",
+      "jobtitle"
+    ],
+    "inputs": [
+      {
+        "id": "1234567"
+      },
+      {
+        "id": "987456"
+      }
+    ]
+  }
+
+// Example request body with record ID (current and historical values)
+{
+    "propertiesWithHistory": [
+      "lifecyclestage",
+      "hs_lead_status"
+    ],
+    "inputs": [
+      {
+        "id": "1234567"
+      },
+      {
+        "id": "987456"
+      }
+    ]
+  }
+
+///Example request body with email
+{
+    "properties": [
+      "email",
+      "lifecyclestage",
+      "jobtitle"
+    ],
+    "idProperty": "email",
+    "inputs": [
+      {
+        "id": "[redacted]"
+      },
+      {
+        "id": "[redacted]"
+      }
+    ]
+  }
+
+///Example request body with a unique value property
+{
+    "properties": [
+      "email",
+      "lifecyclestage",
+      "jobtitle"
+    ],
+    "idProperty": "internalcustomerid",
+    "inputs": [
+      {
+        "id": "12345"
+      },
+      {
+        "id": "67891"
+      }
+    ]
+  }
+  
+  ///Example request body PATCH /crm/v3/objects/contacts/{contactId}
+{
+    "properties": {
+      "hs_pinned_engagement_id": 123456789
+    }
+  }
+
+///Example request body POST /crm/v3/objects/contacts
+{
+    "properties": {
+      "email": "example@hubspot.com",
+      "firstname": "Jane",
+      "lastname": "Doe",
+      "phone": "[redacted]",
+      "hs_pinned_engagement_id": 123456789
+    },
+  "associations": [
+      {
+       "to": {
+          "id": 123456789
+        },
+        "types": [
+          {
+            "associationCategory": "HUBSPOT_DEFINED",
+            "associationTypeId": 201
+          }]
+  }]
+  }

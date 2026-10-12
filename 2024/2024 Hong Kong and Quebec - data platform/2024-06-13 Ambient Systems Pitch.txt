@@ -1,0 +1,173 @@
+Ambient Systems Pitch
+
+Companies Across Industries Face Pain Points in Optimizing Financial Performance
+
+These challenges include:
+Manual, time-consuming processes prone to errors.
+Repetitive work that hampers productivity.
+Managing vast amounts of financial and operational data effectively.
+Balancing multiple competing responsibilities and priorities.”
+
+
+Ambient Systems Product Solves Numerous Pain Points for Finance & Operations Teams through Cloud-based Software for Financial Insights and Planning using the power of AI and Internet-of-Things.
+
+User-Friendly Interaction and Insights.
+Comprehensive, Easy, and Fast Data Integration with Internet of Things (IoT) and Enterprise Resource Planning (ERP) software.
+Comprehensive Financial Insights and Planning.
+
+The system consists of the following:
+AI (Ambient Systems)
+Financial Insights and Planning (Ambient Systems)
+Operational Reports & Insights (Ambient Systems)
+User Interface (Ambient Systems)
+IoT Sensors (Ambient Systems with a provider)
+ERP Systems (existing systems)
+Operations Improvements (client's current team)
+
+Ambient Systems provided a solution for a 4,000 ft² vertical farm in Singapore to improve their profit margin trough better crop yields.
+
+The platform enabled the client to consolidate data from sensors, crops, and other sources, set objective-decision making operational criteria, and receive inputs from AI on how to better manage their equipment to increase productivity of the plant. For instance, the platform was able to identify 25% to 75% improvement 
+
+ Their objective decision-making criteria included:
+Improving the quality and yield of crops.
+Simultaneously reducing energy and labor costs."
+"Through access to real-time operational data such as environmental parameters, energy consumption data, and crop prices, Ambient Systems facilitated enhanced financial management efficiency and effectiveness. This resulted in:
+Valuable insights and improved planning capabilities for the vertical farm.
+Increased production and economical use of energy and CO2.
+Reduced output timing risk."
+"This case study underscores the tangible benefits Ambient Systems' solution brings to specific industries like vertical farming, ultimately driving greater financial performance and operational optimization. With Ambient Systems, businesses across various sectors, including vertical farming, can harness the power of IoT and AI technologies to unlock their full potential and achieve remarkable results in financial management and operational efficiency."
+
+"Building on the core functionalities of our Deep Tech platform, our FinTech product offers a user-friendly and accessible solution specifically tailored for financial management. It integrates seamlessly with your existing financial data and ERP systems. While basic financial analysis tools are available (optional), the true power lies in its connection to the Deep Tech platform. Imagine leveraging advanced AI models from Deep Tech to uncover hidden trends or predict future financial performance within your FinTech data. This synergy between Deep Tech and FinTech empowers businesses to make data-driven decisions and achieve a competitive edge."
+
+Here I will demonstrate a business software to help companies improve their financial performance by enabling finance teams to connect data from various systems and plan better and accurately.
+
+The overview page gives users a summary of various pages in the app.
+User can see various locations.
+They can filter through various financial metrics and date ranges with dynamic changing graph.
+The user can see which data sets they have already and which they need. They can click to see more.
+They can see operational metrics specific to their business. For example, vertical farms may be interested in yield or revenue per square foot.
+Most importantly, user can leverage AI models to identify operational improvements, their timeline, potential financial impact, and the data feeds needed and connected to utilize AI.
+
+The AI is requested through service requests page.
+We’re working to offer other technical services to support financial performance, such as report planning or hardware.
+
+The AI request workflow is simple and easy to use.
+Users just select from available models or problems they want to solve.
+Then they link the model to the datasets they have.
+Managing permissions is easy for the users with simple dropdown and checkboxes.
+Finaly, user can specify the urgency and any additional information.
+
+Users can track the progress of the model in the MyRequests tab.
+This provides an overview of the models requested or running that are continuously improving business financial performance.
+User can easily see which financial metric the model is linked to as well as the timeline to develop or see effects.
+
+Need to provide some figures on time and cost to implement this as well as examples.
+
+What to tell the client: every time you ask a question (try to tease you) need to be ready for something that potential clients have asked you and 
+
+Subscription cost?
+
+Example from different examples of different customers you are targeting. If you see a non vertical farm.
+
+Can you give some examples of requests that could have been done or that you already got?
+If this has already been asked? How much did it cost
+
+For example: if they wanted to automate or monitor. 
+
+Do you have one example for vertical farm?
+
+3-5 examples
+
+Requests: time to develop
+
+Another sheet or notes and you note for each evolution the price that this will cost.
+
+Same topic: which client are we targeting?
+
+If you are targeting thousand different sectors
+
+Do an example that is very generic: real estate could be better.
+
+If you are targeting a niche sector: try to do a presentation specific to them that they will understand.
+
+More generic clients try to get example any business man would understand.
+
+You need to set the boundaries in terms of what they will look at.
+
+Everything ties with the financial performance of the business as measured through metrics like KPIs.
+Users have easy way to track the metrics as well as tasks required to achieve them.
+The user can configure metrics they care the most based on their needs.
+
+User can easily see which data is needed and available to calculate and reach their goals.
+Data is either internal (Historical) from the company or provided in form of trends and external benchmarks, which Ambient Systems can research and provide.
+
+This Goal Metrics tab allows the user to select how they want to measure their financial performance improvements.
+The user can also track intermediate metrics towards achieving their goal.
+The library is pre-built based on industry best practices and can be customized to suit the needs of individual clients.
+For each metric, the user can see how the technique in how the metric is calculated as well as the data sources needed to calculate it.
+
+Finally, these metrics are distilled into a simple financial plan that aligns with financial statement formats.
+User can use AI button to auto-generate future projections for revenues, costs, and investments.
+
+"We mentioned how Ambient Systems connects all your data, but what truly unlocks its power is our advanced AI. Unlike basic rule-based systems used by FinTech tools, Deep Tech leverages cutting-edge Machine Learning algorithms. We're talking advanced techniques like Recurrent Neural Networks (RNNs) to predict crop growth patterns in vertical farms, or Convolutional Neural Networks (CNNs) to identify potential plant diseases through sensor data. It's like having a powerful microscope revealing intricate details about your operations. This translates to highly specific, actionable insights that can optimize your business.
+
+While FinTech tools might automate basic tasks like generating reports, Deep Tech goes beyond. Imagine the possibilities of using Generative Adversarial Networks (GANs) for data augmentation, creating even more robust datasets for analysis. This level of AI sophistication empowers you to make data-driven decisions that drive real results. »
+
+AI-supported data integration (connect datafeeds with reduced costs)
+AI-supported financial goal setting (quickly identify areas for improvement)
+AI-supported financial management (quickly generate plans for the future)
+
+At Ambient Systems, we bridge this gap by seamlessly connecting all your data sources. We go beyond just financial data and integrate with building IoT sensors to provide real-time operational insights alongside financial information. Imagine proactively reducing energy costs by identifying areas of high consumption through sensor data.
+
+But we don't stop there. We understand the unique challenges faced by commercial real estate teams. Our platform goes beyond generic analysis and focuses on specific metrics that impact your business, like worker productivity and comfort. This empowers you to make data-driven decisions to improve the work environment and ultimately, achieve both financial success and operational excellence.
+
+Unlike traditional solutions that require complex setup and expertise, Ambient Systems prioritizes user-friendliness. Our platform integrates seamlessly with existing systems and offers pre-built solutions tailored to the commercial real estate industry. This empowers your finance teams to work independently and leverage the power of data to optimize your business."
+
+The market opportunity for Ambient Systems is strong and growing. While the traditional ERP software market is stable at $52 billion with a modest 5% growth projection, the financial management software market is a much more dynamic space. This $16 billion market is expected to grow at a healthy 9% CAGR until 2026. But our real focus is the financial planning software market, a $4 billion segment experiencing explosive growth of 16.6% CAGR until 2031. This rapid increase highlights the growing demand for advanced financial planning solutions.
+Here's where we come in. We're targeting a specific niche within this market: the Go-To-Market segment focused on four key smart infrastructure industries – Commercial Real Estate, Vertical Farming, Transportation, and Construction. These industries all share a critical need for data-driven insights to optimize their financial planning. With a rapidly growing market and a well-defined niche, Ambient Systems is positioned for exceptional growth in the coming years.
+
+Here are a few title options for Slide 10 based on the information it conveys:
+Focusing on Growth:
+
+Financial Planning Software: A High-Growth Market Opportunity
+Explosive Growth: Poised to Lead the Financial Planning Software Market
+Highlighting Niche:
+Targeting Smart Infrastructure: A Strategic Niche in Financial Planning
+Unlocking Growth in Key Industries: Our Go-To-Market Strategy
+Combined Focus:
+Financial Planning's Future: High-Growth Market & Strategic Niche Targeting
+The Perfect Fit: A Thriving Market Segment for Deep Tech Solutions
+The best title for your slide depends on the overall flow of your presentation and what aspect of the market opportunity you want to emphasize.
+
+My journey began at the National University of Singapore, where I developed a patented method for vertical farming. This early innovation caught the attention of NUS, who provided crucial seed funding of SG$100k. With this support, we built a Minimum Viable Product (MVP) specifically tailored for the vertical farming industry, demonstrating the real-world potential of our Deep Tech solutions.
+
+Our success didn't stop there. Recognizing the broader applicability of our technology, we secured additional funding of SG$40k from investors to explore solutions for the commercial real estate sector. This resulted in a prototype that achieved First Runner-up status at the Google Cloud Hackathon in Singapore, gaining recognition from a leading tech giant.
+
+Most recently, our innovative spirit was further validated by Panasonic. We emerged victorious in the Panasonic Deep Tech Innovation Challenge, winning in the Wireless Technology for Transportation category. This award showcases our ability to solve complex challenges across diverse industries with cutting-edge AI solutions.
+
+This combined story highlights your impressive journey, starting with a student innovation, securing early funding and validation, demonstrating real-world application through the MVP, pivoting to commercial real estate with investor backing, and then achieving recognition for innovation in transportation technology. It paints a picture of a company with a strong foundation, adaptability, and a commitment to pushing boundaries.
+
+Financial Projections are Phase 1 (months 0 to 26) Organic revenue from custom milestone-based service contracts.
+Then, Pre-Seed Round: US$300k.
+
+Phase 2 (months 26 to 46) with Recurring revenue from scalable products.
+
+Then Seed Round: US$2.5M.
+
+
+"I'm Ivan Damnjanović and the CEO and Founder of Ambient Systems."
+"I bring over 10 years of experience in leading deep tech startups and securing significant capital investments exceeding $1.4 million, making me a seasoned innovator and entrepreneur."
+"In addition to my role at Ambient Systems, I also serve as a part-time faculty member at Centennial College in Toronto, Canada, where I share my expertise in artificial intelligence and computer science."
+"My background includes serving as a Risk Analyst at Deloitte Canada and as a Research Associate at the University of Toronto, where I earned accolades such as the Undergraduate Student Research Awards (USRA) from NSERC."
+"I hold a Master’s degree in computer science from the National University of Singapore and a Bachelor's degree in civil engineering from the University of Toronto, solidifying my expertise in both technical and managerial domains."
+
+MIlestone timeline has 6 milestones divided into three streams: Product Release, Business Development, Corporate Development (fundraising).
+
+"Thank you for joining us today!"
+"To learn more about Ambient Systems and our innovative solutions, visit our website:"
+"www.ambientsystems.ai"
+"On Ambient Systems website, you can:"
+"Download use cases"
+"Register for early access"
+"Download our investor brief"
+"I'm excited to have you on board as we revolutionize financial management in commercial real estate and beyond."

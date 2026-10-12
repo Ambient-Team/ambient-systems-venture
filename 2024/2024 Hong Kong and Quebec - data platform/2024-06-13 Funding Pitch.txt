@@ -1,0 +1,106 @@
+### Speaker Notes for Ambient Systems Fundraising Pitch
+
+**Slide 1: Introduction**
+**Speaker Notes:**
+Good afternoon, everyone. My name is Ivan Damnjanović, CEO and Founder of Ambient Systems. Today, I'm excited to share how our innovative solutions are revolutionizing financial management across various industries.
+
+**Slide 2: Challenges in Financial Optimization**
+**Speaker Notes:**
+Companies today face significant challenges in optimizing their financial performance. These include:
+- Manual, time-consuming processes that are prone to errors.
+- Repetitive tasks that hamper productivity.
+- Managing vast amounts of financial and operational data effectively.
+- Balancing multiple competing responsibilities and priorities.
+
+**Slide 3: Our Solution**
+**Speaker Notes:**
+Ambient Systems addresses these pain points with our cloud-based software. By leveraging the power of AI and IoT, we deliver robust financial insights and planning capabilities. Our solution offers:
+- User-friendly interaction and insights.
+- Comprehensive, fast, and easy data integration with IoT and ERP systems.
+- Enhanced financial insights and planning.
+
+**Slide 4: System Components**
+**Speaker Notes:**
+Our system is built with several key components:
+- AI (Ambient Systems)
+- Financial Insights and Planning (Ambient Systems)
+- Operational Reports & Insights (Ambient Systems)
+- User Interface (Ambient Systems)
+- IoT Sensors (Ambient Systems with providers)
+- ERP Systems (existing systems)
+- Operations Improvements (client's current team)
+
+**Slide 5: Case Study: Vertical Farm in Singapore**
+**Speaker Notes:**
+Let me share a success story. We implemented our solution for a 4,000 ft² vertical farm in Singapore. The goal was to improve profit margins through better crop yields. Our platform enabled the client to:
+- Consolidate data from sensors, crops, and other sources.
+- Set objective decision-making criteria.
+- Utilize AI for better equipment management, resulting in a 25% to 75% improvement in productivity.
+
+**Slide 6: Improvements Achieved**
+**Speaker Notes:**
+Specific improvements included:
+- Enhanced crop quality and yield.
+- Reduced energy and labor costs.
+By accessing real-time operational data, such as environmental parameters, energy consumption, and crop prices, the farm achieved:
+- Valuable insights and improved planning capabilities.
+- Increased production efficiency.
+- Economical use of energy and CO2, reducing output timing risk.
+
+**Slide 7: Highlighting Our FinTech Product**
+**Speaker Notes:**
+Building on our Deep Tech platform, we offer a FinTech product tailored for financial management. It seamlessly integrates with existing financial data and ERP systems. By leveraging advanced AI models, it uncovers hidden trends and predicts future financial performance, empowering businesses to make data-driven decisions and gain a competitive edge.
+
+**Slide 8: Software Demonstration**
+**Speaker Notes:**
+Our business software enhances financial performance by enabling finance teams to connect data from various systems for better planning and accuracy. Key features include:
+- An overview page summarizing various sections of the app.
+- Filters for financial metrics and date ranges with dynamic graphs.
+- Visibility into existing and needed datasets.
+- Operational metrics specific to the business, such as yield or revenue per square foot for vertical farms.
+- AI models to identify operational improvements, their timeline, potential financial impact, and necessary data feeds.
+
+**Slide 9: AI Request Workflow**
+**Speaker Notes:**
+The AI request workflow is straightforward:
+1. Users select models or problems to solve.
+2. Link the model to existing datasets.
+3. Manage permissions easily with dropdowns and checkboxes.
+4. Specify urgency and additional information.
+Users can track model progress in the MyRequests tab, providing an overview of requested or running models that continuously improve financial performance.
+
+**Slide 10: Client Engagement and Examples**
+**Speaker Notes:**
+When engaging with potential clients, be prepared to discuss:
+- Subscription costs.
+- Examples from various industries.
+- Specific client requests and their development timelines.
+- Time and cost for implementation.
+Provide clear, relatable examples to help clients understand the value of Ambient Systems across diverse sectors, including commercial real estate.
+
+**Slide 11: Connecting Data and Tracking Metrics**
+**Speaker Notes:**
+Our platform connects all your data sources, offering AI-supported data integration, financial goal setting, and management. Users can track KPIs, configure metrics, and access internal (historical) and external (trend and benchmark) data. The Goal Metrics tab allows users to measure financial performance improvements, track intermediate metrics, and generate financial plans with AI assistance.
+
+**Slide 12: Advanced AI for Deep Insights**
+**Speaker Notes:**
+Ambient Systems uses advanced AI techniques like Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) to provide specific, actionable insights. Unlike basic rule-based systems, our AI reveals intricate operational details, enabling data-driven decisions for real results.
+
+**Slide 13: Market Opportunity and Strategy**
+**Speaker Notes:**
+The financial management software market is dynamic, growing at 9% CAGR, with the financial planning software segment expanding at 16.6% CAGR. Ambient Systems targets a niche in smart infrastructure industries, including commercial real estate, vertical farming, transportation, and construction, all needing data-driven financial planning insights. This strategic focus positions Ambient Systems for exceptional growth.
+
+**Slide 14: Founder’s Journey and Milestones**
+**Speaker Notes:**
+I am Ivan Damnjanović, CEO and Founder of Ambient Systems, with over 10 years of experience in deep tech startups and securing over $1.4 million in investments. I also teach AI and computer science at Centennial College, Toronto, and have held roles at Deloitte Canada and the University of Toronto.
+Our journey began with a patented vertical farming method at the National University of Singapore, securing SG$100k seed funding. We expanded to commercial real estate with SG$40k from investors and won accolades like First Runner-up at the Google Cloud Hackathon and victory in the Panasonic Deep Tech Innovation Challenge.
+
+**Slide 15: Financial Projections and Development Phases**
+**Speaker Notes:**
+Our financial projections are divided into two phases:
+Phase 1 (months 0 to 26): Organic revenue from milestone-based service contracts. Pre-Seed Round: US$300k.
+Phase 2 (months 26 to 46): Recurring revenue from scalable products. Seed Round: US$2.5M.
+
+**Slide 16: Conclusion and Contact Information**
+**Speaker Notes:**
+Thank you for joining us today! To learn more about Ambient Systems, visit [www.ambientsystems.ai](http://www.ambientsystems.ai), where you can download use cases, register for early access, and access our investor brief. We're excited to revolutionize financial management across industries.

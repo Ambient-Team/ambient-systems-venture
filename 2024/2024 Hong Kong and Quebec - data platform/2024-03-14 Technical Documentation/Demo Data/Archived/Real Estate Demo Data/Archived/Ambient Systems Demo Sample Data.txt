@@ -1,0 +1,235 @@
+Ambient Systems Demo Sample Data
+
+	0.	Property Information:
+Property ID
+Property Name
+Property Type
+Location
+Size (sqft)
+Year Built
+Occupancy Rate
+Rental Rate ($/sqft)
+Expenses ($)
+PROP001
+Central Tower
+Office Building
+New York
+100,000
+1990
+90%
+$40
+$15,000
+PROP002
+Riverside Plaza
+Retail Space
+Los Angeles
+50,000
+1985
+95%
+$60
+$12,500
+PROP003
+Industrial Park A
+Industrial
+Chicago
+200,000
+2005
+85%
+$8
+$25,000
+	2	Tenant Information:
+Tenant ID
+Tenant Name
+Lease Start Date
+Lease End Date
+Lease Term
+Monthly Rent ($)
+Sqft Leased
+TEN001
+Tech Innovations
+2022-01-01
+2025-12-31
+3 years
+$20,000
+5,000
+TEN002
+Fashion Emporium
+2023-05-15
+2028-05-14
+5 years
+$15,000
+2,500
+TEN003
+Logistics Inc
+2024-03-01
+2029-02-28
+5 years
+$30,000
+10,000
+	3	Financial Data:
+Property ID
+Revenue ($)
+Operating Expenses ($)
+Net Operating Income (NOI) ($)
+Cap Rate
+Cash Flow ($)
+Debt Service ($)
+Occupancy Cost (%)
+PROP001
+$3,600,000
+$1,350,000
+$2,250,000
+6.0%
+$1,750,000
+$1,000,000
+25%
+PROP002
+$3,600,000
+$1,500,000
+$2,100,000
+5.5%
+$1,600,000
+$800,000
+30%
+PROP003
+$1,600,000
+$600,000
+$1,000,000
+7.0%
+$800,000
+$500,000
+20%
+	4	Market Data: (Assuming a broader dataset for comparables, market trends, etc., I'll just provide placeholders)
+Market Info
+Data
+Comparable Properties
+- Nearby Office Building: 80% occupancy, $45/sqft rental rate
+- Retail Space: 85% occupancy, $55/sqft rental rate
+Market Rental Rates
+- Office Space: $45/sqft
+- Retail Space: $55/sqft
+Market Vacancy Rates
+- Office Space: 10%
+- Retail Space: 15%
+Market Trends
+- New Office Development in Downtown 
+- Growing demand for Industrial Spaces
+	5	Transaction Data:
+Property ID
+Sale Price ($)
+Sale Date
+Buyer/Seller Info
+Financing Details (if any)
+PROP001
+$30,000,000
+2023-07-15
+Buyer: Real Estate Ventures
+- Cash deal
+PROP002
+$20,000,000
+2024-02-28
+Buyer: Retail Investment Co
+- Financed through bank loan
+PROP003
+-
+-
+-
+-
+
+Financial Ratios:
+	0.	Net Operating Income (NOI):
+	•	NOI = Gross Rental Income - Operating Expenses
+	•	Represents the property's income after deducting operating expenses but before debt service and taxes. It's a key indicator of the property's profitability.
+	0.	Capitalization Rate (Cap Rate):
+	•	Cap Rate = NOI / Property Value
+	•	Measures the property's annual return on investment based on its current income. Cap rates are used to compare different properties and assess their investment potential.
+	0.	Internal Rate of Return (IRR):
+	•	IRR is the rate of return that makes the net present value (NPV) of all cash flows from the investment equal to zero. It represents the property's annualized rate of return over the investment period.
+	0.	Cash-on-Cash Return (CoC):
+	•	CoC = Annual Cash Flow / Equity Investment
+	•	Measures the annual return on the equity investment in the property. It helps investors evaluate the cash flow generated relative to the amount of equity invested.
+	0.	Debt Yield:
+	•	Debt Yield = NOI / Loan Amount
+	•	Indicates the property's ability to cover its debt obligations. Lenders use debt yield to assess the risk associated with providing a loan.
+	0.	Loan Constant:
+	•	Loan Constant = Annual Debt Service / Loan Amount
+	•	Represents the annual debt service payment as a percentage of the loan amount. It helps assess the affordability of debt financing for the property.
+	0.	Rentable Square Footage (RSF) Efficiency:
+	•	RSF Efficiency = Rentable Square Feet / Gross Square Feet
+	•	Measures the efficiency of space utilization within the property. Higher RSF efficiency ratios indicate more efficient use of space and potentially higher rental income per square foot.
+	0.	Expense Recovery Ratio:
+	•	Expense Recovery Ratio = Total Recoverable Expenses / Total Operating Expenses
+	•	Indicates the percentage of operating expenses that can be recovered from tenants through expense reimbursements or common area maintenance (CAM) charges.
+
+Metrics:
+
+	0.	Occupancy Rate:
+	•	Data Needed: Information on leased and vacant space within the property.
+	•	Source: Property management software, lease management systems, tenant databases.
+	•	Sensor Data: Occupancy sensors installed within leased spaces to monitor occupancy levels in real-time.
+	0.	Tenant Retention Rate:
+	•	Data Needed: Lease renewal data, including lease expiration dates and tenant decisions to renew or vacate.
+	•	Source: Lease management systems, tenant communication records, lease documents.
+	•	Sensor Data: None directly applicable.
+	0.	Net Operating Income (NOI) Growth:
+	•	Data Needed: Revenue from rent, operating expenses, property taxes, insurance, and other expenses.
+	•	Source: Accounting records, property management software, financial statements.
+	•	Sensor Data: None directly applicable, but energy usage data from sensors can inform utility expense calculations.
+	0.	Cash Flow Margin:
+	•	Data Needed: NOI, debt service payments, capital expenditures, and other cash inflows and outflows.
+	•	Source: Financial records, accounting systems, loan documents.
+	•	Sensor Data: None directly applicable, but data on utility usage and expenses can inform operating expense calculations.
+	0.	Capitalization Rate (Cap Rate):
+	•	Data Needed: NOI and property valuation.
+	•	Source: Financial records, property appraisals, market analysis reports.
+	•	Sensor Data: None directly applicable.
+	0.	Return on Investment (ROI):
+	•	Data Needed: Initial investment amount, cash flow, and property valuation.
+	•	Source: Investment records, financial statements, property appraisals.
+	•	Sensor Data: None directly applicable.
+	0.	Operating Expense Ratio (OER):
+	•	Data Needed: Total operating expenses and effective gross income.
+	•	Source: Financial records, property management software, accounting systems.
+	•	Sensor Data: None directly applicable, but data on utility usage and expenses can inform operating expense calculations.
+	0.	Market Share:
+	•	Data Needed: Total leasable space or rental revenue within the market.
+	•	Source: Market research reports, competitor analysis, property records.
+	•	Sensor Data: None directly applicable.
+
+Deep Tech (not part of FinTech Product) —> part of operational efficiency:
+	1.	Energy Management:
+	•	Desirable Metrics: Energy efficiency, cost savings, sustainability.
+	•	IoT Application: IoT sensors monitor energy consumption in real-time, helping to optimize building systems (HVAC, lighting, etc.) for energy efficiency. This leads to reduced operating expenses (OPEX), positively impacting metrics like NOI and cash flow margin.
+	•	Financial Tie-in: Energy efficiency directly affects operating expenses (OPEX) by reducing utility costs. Lower energy expenses contribute to higher net operating income (NOI) and cash flow margin.
+	2.	Predictive Maintenance:
+	•	Desirable Metrics: Asset reliability, downtime reduction, maintenance costs.
+	•	IoT Application: Predictive maintenance using IoT sensors helps prevent equipment failures and reduce unplanned downtime. This improves asset performance, reduces repair costs, and enhances tenant satisfaction, ultimately contributing to NOI growth and tenant retention.
+	•	Financial Tie-in: Predictive maintenance reduces repair and replacement costs, minimizing capital expenditures (CAPEX) and preserving asset value. Lower maintenance expenses positively impact NOI and ROI
+	3.	Occupant Comfort and Productivity:
+	•	Desirable Metrics: Tenant satisfaction, productivity, lease renewal rates.
+	•	IoT Application: IoT devices adjust environmental conditions based on occupancy and preferences, enhancing tenant comfort and productivity. Satisfied tenants are more likely to renew leases, reducing vacancy rates and improving overall property performance.
+	4.	Space Utilization Optimization:
+	•	Desirable Metrics: Occupancy rate, rental income per square foot.
+	•	IoT Application: IoT sensors track space utilization patterns, allowing property managers to optimize layouts and allocate resources efficiently. Maximizing space usage increases rental income potential and improves key metrics like occupancy rate and ROI.
+	•	Financial Tie-in: Maximizing space usage increases rental income potential by maximizing rentable area utilization. Higher rental income improves revenue-related metrics like NOI and ROI.
+	5.	Security and Access Control:
+	•	Desirable Metrics: Property security, tenant safety, risk management.
+	•	IoT Application: IoT-based security systems enhance property safety by monitoring premises, controlling access, and providing real-time alerts. Ensuring a secure environment reduces potential risks and liabilities, safeguarding property value and tenant satisfaction.
+	•	Financial Tie-in: Ensuring property security reduces potential losses from theft, vandalism, or liability claims. Lower security-related expenses contribute to higher NOI and profitability.
+	6.	Tenant Experience Enhancement:
+	•	Desirable Metrics: Tenant satisfaction, lease renewal rates, rental income.
+	•	IoT Application: IoT-enabled amenities and services improve tenant experience by providing convenience and personalized services. Satisfied tenants are more likely to renew leases, leading to higher rental income and improved metrics like NOI and ROI.
+	7.	Environmental Monitoring:
+	•	Desirable Metrics: Environmental compliance, occupant health, sustainability.
+	•	IoT Application: IoT sensors monitor environmental factors, ensuring compliance with regulations and maintaining occupant health and comfort. Demonstrating commitment to sustainability can enhance property value and attractiveness to investors.
+	8.	Parking Management:
+	•	Desirable Metrics: Parking revenue, tenant satisfaction, traffic flow.
+	•	IoT Application: IoT sensors provide real-time parking availability information, optimizing parking space usage and improving tenant satisfaction. Efficient parking management increases revenue potential and contributes to desirable metrics like NOI and ROI.
+	•	Financial Tie-in: Efficient parking management maximizes revenue potential from parking fees and reduces costs associated with traffic congestion or inefficient space usage. Higher parking revenue positively impacts NOI and ROI.
+	9.	Waste Management:
+	•	Desirable Metrics: Sustainability, cost savings, operational efficiency.
+	•	IoT Application: IoT-based waste management systems optimize waste collection routes and schedules, reducing operational costs and promoting sustainability. Efficient waste management positively impacts metrics like OPEX and NOI.
+	•	Financial Tie-in: Optimizing waste management reduces operational expenses associated with waste collection and disposal. Lower waste-related costs contribute to improved cash flow margin and profitability.
+	10.	Tenant Engagement and Communication:
+	•	Desirable Metrics: Tenant satisfaction, community engagement, lease renewal rates.
+	•	IoT Application: IoT platforms facilitate communication between property managers and tenants, enhancing engagement and satisfaction. Improved tenant relationships lead to higher retention rates and positive impacts on key metrics like NOI and ROI.

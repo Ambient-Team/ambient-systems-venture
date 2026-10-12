@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manual Data Entry Form</title>
+  <style>
+    .form-group {
+      margin-bottom: 15px;
+    }
+    .entry-row {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+    }
+    .entry-row label {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <form id="manualDataEntryForm">
+    <h2>Enter Multi-Field Data</h2>
+
+    <!-- Dynamic Data Entry Rows -->
+    <div id="dataEntryFields">
+      <div class="entry-row">
+        <label for="timestamp">Timestamp:</label>
+        <input type="datetime-local" id="timestamp" name="timestamp[]" required>
+
+        <label for="fKWhCounter">fKWhCounter:</label>
+        <input type="number" step="any" id="fKWhCounter" name="fKWhCounter[]" placeholder="Enter value" required>
+
+        <label for="fActPhLevelMixTank1">fActPhLevelMixTank1:</label>
+        <input type="number" step="any" id="fActPhLevelMixTank1" name="fActPhLevelMixTank1[]" placeholder="Enter value" required>
+
+        <label for="fActEcLevelMixTank1">fActEcLevelMixTank1:</label>
+        <input type="number" step="any" id="fActEcLevelMixTank1" name="fActEcLevelMixTank1[]" placeholder="Enter value" required>
+
+        <label for="fActPhLevelMixTank2">fActPhLevelMixTank2:</label>
+        <input type="number" step="any" id="fActPhLevelMixTank2" name="fActPhLevelMixTank2[]" placeholder="Enter value" required>
+
+        <label for="fActEcLevelMixTank2">fActEcLevelMixTank2:</label>
+        <input type="number" step="any" id="fActEcLevelMixTank2" name="fActEcLevelMixTank2[]" placeholder="Enter value" required>
+
+        <button type="button" onclick="addEntryRow()">Add Another Timestamp</button>
+      </div>
+    </div>
+
+    <!-- [Team member] -->
+    <div class="form-group">
+      <button type="submit">Submit Data</button>
+    </div>
+  </form>
+
+  <script>
+    function addEntryRow() {
+      var newRow = document.createElement('div');
+      newRow.className = 'entry-row';
+      newRow.innerHTML = `
+        <label for="timestamp">Timestamp:</label>
+        <input type="datetime-local" name="timestamp[]" required>
+
+        <label for="fKWhCounter">fKWhCounter:</label>
+        <input type="number" step="any" name="fKWhCounter[]" placeholder="Enter value" required>
+
+        <label for="fActPhLevelMixTank1">fActPhLevelMixTank1:</label>
+        <input type="number" step="any" name="fActPhLevelMixTank1[]" placeholder="Enter value" required>
+
+        <label for="fActEcLevelMixTank1">fActEcLevelMixTank1:</label>
+        <input type="number" step="any" name="fActEcLevelMixTank1[]" placeholder="Enter value" required>
+
+        <label for="fActPhLevelMixTank2">fActPhLevelMixTank2:</label>
+        <input type="number" step="any" name="fActPhLevelMixTank2[]" placeholder="Enter value" required>
+
+        <label for="fActEcLevelMixTank2">fActEcLevelMixTank2:</label>
+        <input type="number" step="any" name="fActEcLevelMixTank2[]" placeholder="Enter value" required>
+
+        <button type="button" onclick="removeEntryRow(this)">Remove Timestamp</button>
+      `;
+      document.getElementById('dataEntryFields').appendChild(newRow);
+    }
+
+    function removeEntryRow(button) {
+      button.parentElement.remove();
+    }
+  </script>
+</body>
+</html>

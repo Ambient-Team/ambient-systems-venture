@@ -1,0 +1,23 @@
+id,name,format,template,lastUpdated,description,fields,industry
+financial_statements,Financial statements,Document,,,"Records of a company's financial activities (income, expenses, assets, liabilities).",,All
+property_purchase,Property purchase records,Document,,,Documents related to the purchase of a property.,,Commercial Real Estate
+sale_records,Sale records,Document,,,Documents related to the sale of a property.,,Commercial Real Estate
+property_management,Property management systems,Software,,,Software used to manage rental properties.,,Commercial Real Estate
+property_valuation,Property valuation reports,Document,,,Documents containing an estimate of a property's value.,,Commercial Real Estate
+rental_income,Rental income records,Document,,,Records of income received from renting a property.,,Commercial Real Estate
+mortgage_documents,Mortgage documents,Document,,,Loan agreements used to finance property purchases.,,Commercial Real Estate
+loan_documents,Loan documents,Document,,,"Loan agreements used for various purposes (e.g., equipment financing).",,Commercial Real Estate
+harvest_logs,Harvest logs,Document,,,Records of the amount and type of produce harvested.,,Vertical Farming
+farm_management,Farm management systems,Software,,,Software used to manage agricultural operations.,,Vertical Farming
+fuel_logs,Fuel logs,Document,,,Records of fuel consumption for vehicles or machinery.,,Transportation
+gps_tracking,GPS tracking data,Document,,,Data collected from GPS devices to track location and movement.,,Transportation
+telematics_data,Vehicle telematics data,Document,,,Data collected from in-vehicle sensors to monitor vehicle performance.,,Transportation
+fleet_management,Fleet management systems,Software,,,Software used to manage a fleet of vehicles.,,Transportation
+delivery_logs,Delivery logs,Document,,,"Records of deliveries made, including location and timing.",,Transportation
+maintenance_logs,Maintenance logs,Document,,,Records of maintenance activities.,,Transportation
+hr_records,HR records,Document,,,Records related to human resources and employee data.,,All
+payroll_records,Payroll records,Document,,,Records related to employee salaries and payments.,,All
+crop_monitoring,Crop monitoring systems,Software,,,Software used to monitor crop growth and health.,,Vertical Farming
+irrigation_logs,Irrigation logs,Document,,,Records related to irrigation activities.,,Vertical Farming
+energy_bills,Energy bills,Document,,,Records of energy consumption and billing.,,Commercial Real Estate
+accounting_software,Accounting Software,Software,,,Software used for financial record keeping and reporting.,,All
