@@ -1,0 +1,79 @@
+date,phase,event,file_path,date_source
+2020-04,2020/2020-04 Origin and first applications,"Idea stage: YC application as ""Ambient Smart Homes""",2020/2020-04 Origin and first applications/2020-04-00 YC Ambient Smart Homes/,folder_name
+2020-04,2020/2020-04 Origin and first applications,Application to NUS GRIP (Graduate Research Innovation Programme) Run 4,2020/2020-04 Origin and first applications/2020-04-00 NUS GRIP Run 4 Application - Application/,folder_name
+2020-06,2020/2020-04 Origin and first applications,"Company domain purchased (receipt is a finance record, kept off-repo)",,event-only (COPY-LOG / off-repo record)
+2020-07-07,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Market Validation workshop,2020/2020-07 NUS GRIP Run 4/2020-07-07 Market Validation - NUS Deck.pdf,parent_folder_name
+2020-07-24,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Intellectual Property workshop,2020/2020-07 NUS GRIP Run 4/2020-07-24 Intellectual Properties.pdf,filename
+2020-08-04,2020/2020-07 NUS GRIP Run 4,MVP Studio prototyping session,release:phase-2020-07-videos.zip/2020/2020-07 NUS GRIP Run 4/2020-08-04 MVP Studio Prototyping.mp4,parent_folder_name
+2020-08-22,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Workshop 1,2020/2020-07 NUS GRIP Run 4/2020-08-22 GRIP4-Workshop 1.5 Housekeeping.pdf,parent_folder_name
+2020-09-19,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Workshop 2,2020/2020-07 NUS GRIP Run 4/2020-09-19 GRIP 4 Workshop 2.1 (19 Sep 2020).pdf,filename
+2020-10-09,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Workshop 3,2020/2020-07 NUS GRIP Run 4/2020-10-09 IP Exercises - Template -Final.xlsx,filename
+2020-10-29,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 Pitching Clinic,2020/2020-07 NUS GRIP Run 4/2020-10-15 Fundraising 101 - mentor session.pdf,filename
+2020-09,2020/2020-07 NUS GRIP Run 4,GRIP Run 4 explainer video,release:phase-2020-07.zip/2020/2020-07 NUS GRIP Run 4/2020-09-00 GRIP Run 4 Explainer Video/,folder_context(inferred)
+2021-01,2021/2021-H1 NUS GRIP Run 5 and spin-out,Google Workspace & GCP set up (purchase records kept off-repo),,event-only (COPY-LOG / off-repo record)
+2021-02-10,2021/2021-H1 NUS GRIP Run 5 and spin-out,Pitch deck v08 - start of GRIP Run 5,release:phase-2021-H1.zip/2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-02-10 Ambient Pitch Deck v08.pptx,filename
+2021-03,2021/2021-H1 NUS GRIP Run 5 and spin-out,YC S21 application,release:phase-2021-H1.zip/2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-03-00 YC Application/,folder_name
+2021-04-13,2021/2021-H1 NUS GRIP Run 5 and spin-out,Investment deck v09 (first of the Run 5 investment-deck series),2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-04-13 Ambient Investment Deck v09.pdf,filename
+2021-05-08,2021/2021-H1 NUS GRIP Run 5 and spin-out,Technology slides v01,release:phase-2021-H1.zip/2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-05-08 Tech Slides v01.pptx,filename
+2021-05-14,2021/2021-H1 NUS GRIP Run 5 and spin-out,First ML model notebook and indoor-climate simulation,2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-05-14 Ambient ML Model.ipynb,modified
+2021-05-17,2021/2021-H1 NUS GRIP Run 5 and spin-out,Final GRIP Run 5 investment deck v23,2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-05-17 Ambient Investment Deck v23.pdf,filename
+2021-05,2021/2021-H1 NUS GRIP Run 5 and spin-out,Financial model v01,2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-05-00 Financial Model v01.xlsx,filename
+2021-06-03,2021/2021-H1 NUS GRIP Run 5 and spin-out,NUS GRIP Run 5 LiftOff Day,release:phase-2021-H1.zip/2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-06-03 NUS GRIP Run 5 LiftOff Day Team Ambi.mp4,filename
+2021-06,2021/2021-H1 NUS GRIP Run 5 and spin-out,"Singapore company incorporated (legal records in the entity legal archive, not here)",,event-only (COPY-LOG / off-repo record)
+2021-06-28,2021/2021-H1 NUS GRIP Run 5 and spin-out,Business-plan slides v01,release:phase-2021-H1.zip/2021/2021-H1 NUS GRIP Run 5 and spin-out/2021-06-28 Business Plan Slides v01.pptx,filename
+2021-07-04,2021/2021-H2 Singapore company - patents and accelerators,Landing-page UI designs,2021/2021-H2 Singapore company - patents and accelerators/2021-07-04 [Team member] UI Designs/,folder_name
+2021-08-09,2021/2021-H2 Singapore company - patents and accelerators,"AI patent filing draft (patent draft - legal record, kept off-repo)",,filename
+2021-08-31,2021/2021-H2 Singapore company - patents and accelerators,Master pitch deck,release:phase-2021-H2.zip/2021/2021-H2 Singapore company - patents and accelerators/2021-08-31 Master pitchdeck.pptx,filename
+2021-09,2021/2021-H2 Singapore company - patents and accelerators,YC W22 application,2021/2021-H2 Singapore company - patents and accelerators/2021-09-00 YC W22 - Y Combinator Application.docx,parent_folder_name
+2021-10,2021/2021-H2 Singapore company - patents and accelerators,Berkeley SkyDeck application,2021/2021-H2 Singapore company - patents and accelerators/2021-10-09 Application.docx,filename
+2021-12-10,2021/2021-H2 Singapore company - patents and accelerators,Comprehensive pitch deck,2021/2021-H2 Singapore company - patents and accelerators/2021-12-10 Ambient Pitchdeck - Comprehensive.pdf,filename
+2021-12-15,2021/2021-H2 Singapore company - patents and accelerators,"Marketing plan (v0 deck, v08 PDF)",2021/2021-H2 Singapore company - patents and accelerators/2021-12-15 Marketing Plan/,folder_name+modified
+2022-01,2022/2022 Singapore accelerators - SMU ACE Panasonic,SMU Business Innovations Generator (BIG) kick-off,2022/2022 Singapore accelerators - SMU ACE Panasonic/2022-06-00 SMU BIG/,filename
+2022-01-12,2022/2022 Singapore accelerators - SMU ACE Panasonic,Panasonic Deep Tech Innovation Challenge (via ACE) kick-off (screenshot not archived),,filename
+2022-02,2022/2022 Singapore accelerators - SMU ACE Panasonic,Website redesign,2022/2022 Singapore accelerators - SMU ACE Panasonic/2022-02-00 Website Designs/,folder_name
+2022-02-22,2022/2022 Singapore accelerators - SMU ACE Panasonic,"ML patent filing draft (patent draft - legal record, kept off-repo)",,filename
+2022-05-05,2022/2022 Singapore accelerators - SMU ACE Panasonic,Decarbonisation-focused pitch deck,2022/2022 Singapore accelerators - SMU ACE Panasonic/2022-05-05 Ambient Systems Pitch Deck - Decarbo.pdf,filename
+2022-06,2022/2022 Singapore accelerators - SMU ACE Panasonic,SMU Lean LaunchPad (LLP) Run 4,2022/2022 Singapore accelerators - SMU ACE Panasonic/2022-06-00 SMU LLP Run 4 - Week 8 - Final/,filename
+2022-07-06,2022/2022 Singapore accelerators - SMU ACE Panasonic,Financial model v10,2022/2022 Singapore accelerators - SMU ACE Panasonic/2022-07-06 Financial Model v10.xlsx,filename
+2022-09-30,2022/2022 Singapore accelerators - SMU ACE Panasonic,ACE Round Table (event photos not archived),,parent_folder_name
+2022-10,2022/2022 Singapore accelerators - SMU ACE Panasonic,"Applications: Antler SG, Breakthrough Energy Ventures, EnterpriseSG/Accelerating Asia, Google for Startups SEA",2023/2023 Panasonic DTC and Hong Kong discovery/2023-03-00 Antler Singapore - Admin/,parent_folder_name
+2022-11-17,2022/2022 Singapore accelerators - SMU ACE Panasonic,"Panasonic Deep Tech Innovation Challenge application (Panasonic partner-confidential briefing, kept off-repo)",,parent_folder_name
+2023-01-12,2023/2023 Panasonic DTC and Hong Kong discovery,Panasonic presentation #1,2023/2023 Panasonic DTC and Hong Kong discovery/2023-01-12 Panasonic Pitch Deck.pdf,filename
+2023-03-09,2023/2023 Panasonic DTC and Hong Kong discovery,Panasonic offering deck,2023/2023 Panasonic DTC and Hong Kong discovery/2023-03-09 Panasonic-Offering.pdf,filename
+2023-04-03,2023/2023 Panasonic DTC and Hong Kong discovery,Financial model exported from Causal,2023/2023 Panasonic DTC and Hong Kong discovery/2023-04-03 T142827Z Headcount Plan Export.xlsx,filename
+2023-04,2023/2023 Panasonic DTC and Hong Kong discovery,Marketing plan and inbound marketing campaign,2023/2023 Panasonic DTC and Hong Kong discovery/2023-04-00 Marketing Plan/,folder_name+modified
+2023-05-17,2023/2023 Panasonic DTC and Hong Kong discovery,K-Startup Grand Challenge and SWITCH Slingshot applications,2023/2023 Panasonic DTC and Hong Kong discovery/2023-05-17 K-Startup Grand Challenge/,folder_name
+2023-06-28,2023/2023 Panasonic DTC and Hong Kong discovery,Social media calendar and LinkedIn content,2023/2023 Panasonic DTC and Hong Kong discovery/2023-06-28 Social Media Calendar/,folder_name+modified
+2023-07-24,2023/2023 Panasonic DTC and Hong Kong discovery,"Fundraising models (blank third-party template, not archived)",,parent_folder_name
+2023-08-24,2023/2023 Panasonic DTC and Hong Kong discovery,Pitch deck (HK-era positioning),2023/2023 Panasonic DTC and Hong Kong discovery/2023-08-24 Ambient Systems - Pitchdeck.pdf,filename
+2023,2023/2023 Panasonic DTC and Hong Kong discovery,HKSTP Market Discovery programme (Hong Kong entry),2023/2023 Panasonic DTC and Hong Kong discovery/2023-09-00 HKSTP Market Discovery Programme/,parent_folder_name
+2023-11-29,2023/2023 Panasonic DTC and Hong Kong discovery,"Panasonic meeting #20 (Panasonic partner discussion, kept off-repo)",,parent_folder_name
+2023-12,2023/2023 Panasonic DTC and Hong Kong discovery,"WEF Davos 2024 / Doconomy ""Stage of Impact"" application",2023/2023 Panasonic DTC and Hong Kong discovery/2023-12-00 WEF Davos 2024 - Doconomy Stage of Impact/,folder_name
+2024-03-05,2024/2024 Hong Kong and Quebec - data platform,Panasonic pitch deck,2024/2024 Hong Kong and Quebec - data platform/2024-03-05 Panasonic-Pitch-Deck.pdf,filename
+2024-03,2024/2024 Hong Kong and Quebec - data platform,VISA Innovation Programme (programme material not archived),,folder_name
+2024-03-21,2024/2024 Hong Kong and Quebec - data platform,"Last Panasonic meeting (#26) (Panasonic partner-confidential notes, kept off-repo)",,filename
+2024-04,2024/2024 Hong Kong and Quebec - data platform,Centennial College (Canada) programme,2024/2024 Hong Kong and Quebec - data platform/2024-04-00 Centennial College/,folder_name
+2024-06-13,2024/2024 Hong Kong and Quebec - data platform,Funding-pitch speaker notes (financial-management / data positioning),2024/2024 Hong Kong and Quebec - data platform/2024-06-13 Funding Pitch.txt,filename
+2024,2024/2024 Hong Kong and Quebec - data platform,HKSTP Incubation application,2024/2024 Hong Kong and Quebec - data platform/2024-01-00 HKSTP Incubation Application/,parent_folder_name
+2024-07-09,2024/2024 Hong Kong and Quebec - data platform,Marketing plan (2024),2024/2024 Hong Kong and Quebec - data platform/2024-07-09 Marketing Plan/,folder_name+modified
+2024-12-18,2024/2024 Hong Kong and Quebec - data platform,Intro pitch deck,release:phase-2024.zip/2024/2024 Hong Kong and Quebec - data platform/2024-12-18 Ambient Systems Pitchdeck Intro.pptx,filename
+2025-01-22,2025/2025 Global version - HK Canada Japan,Pitch deck (January 2025),2025/2025 Global version - HK Canada Japan/2025-01-22 Ambient Systems Pitchdeck.pdf,filename
+2025-02-18,2025/2025 Global version - HK Canada Japan,Full-version pitch deck,2025/2025 Global version - HK Canada Japan/2025-02-18 Ambient Systems Pitch Deck - Full Version.pdf,filename
+2025-05-02,2025/2025 Global version - HK Canada Japan,Toronto Public Library / TBDC Business Inc. application and business plan (Canada),2025/2025 Global version - HK Canada Japan/2025-05-02 TPL Business Inc - Application/,folder_name+modified
+2025-05-24,2025/2025 Global version - HK Canada Japan,Bold Spirit Award and DMZ Backing Canadian Small Businesses applications (Canada),2025/2025 Global version - HK Canada Japan/2025-05-24 Bold Spirit Award 2025/,folder_name+modified
+2025-09-12,2025/2025 Global version - HK Canada Japan,WIPO Scale Up Your IP programme (application; post-programme plan 2025-11-06),2025/2025 Global version - HK Canada Japan/2025-09-12 WIPO Scale Up Your IP - Application/,folder_name+modified
+2025-09-28,2025/2025 Global version - HK Canada Japan,BCA BEAMP Cycle 6 application (Singapore),2025/2025 Global version - HK Canada Japan/2025-09-28 BCA BEAMP Cycle 6/,folder_name+modified
+2025-10-18,2025/2025 Global version - HK Canada Japan,HKSTP Global Connect Soft Landing Programme - pitch deck,2025/2025 Global version - HK Canada Japan/2025-10-18 Soft Landing Programme Active - Ambient Systems Pitch Deck - Full Version - HKSTP.pdf,folder_name+modified
+2025-12-08,2025/2025 Global version - HK Canada Japan,"""Global Version"" pitch deck",2025/2025 Global version - HK Canada Japan/2025-12-08 Ambient Systems - Global Version.pdf,filename
+2025-12-15,2025/2025 Global version - HK Canada Japan,"JETRO Fast Track (Japan) applications - Singapore, Indonesia, Malaysia, Vietnam",2025/2025 Global version - HK Canada Japan/2025-12-15 JETRO Fast Track - Vietnam 2025/,folder_name+modified
+2026-01-16,2026/2026 Agency model and wind-down,JETRO Fast Track Vietnam follow-up - PVN pitch decks and governance digital-twin prototype code,2026/2026 Agency model and wind-down/2026-01-16 JETRO Fast Track - Vietnam 2025/,folder_name+modified
+2026-03-08,2026/2026 Agency model and wind-down,"""Dual Version"" pitch deck",2026/2026 Agency model and wind-down/2026-03-08 Ambient Systems - Dual Version - Pitchdeck.pdf,folder_name+modified
+2026-03-13,2026/2026 Agency model and wind-down,Platform codebase snapshot (packed source; API key redacted),2026/2026 Agency model and wind-down/2026-03-13 Platform code/ambient-platform-packed.md,folder_name+modified
+2026-03-14,2026/2026 Agency model and wind-down,Final backup of working files (its design screenshots are copies of the 2024 Figma exports),2024/2024 Hong Kong and Quebec - data platform/2024-03-14 Technical Documentation/Design Materials/Figma export_0603/Overview.png,folder_name+modified
+2026-03-23,2026/2026 Agency model and wind-down,"""Software Product - VC Model"" pitch deck",2026/2026 Agency model and wind-down/2026-03-23 Ambient.pdf,folder_name+modified
+2026-03-27,2026/2026 Agency model and wind-down,"Agency-model deck drafts (Ambient Systems .IO, ""Stop Leaving Money on the Table"")",2026/2026 Agency model and wind-down/2026-03-27 Ambient-Systems-IO - final.pdf,folder_name+modified
+2026-03-27,2026/2026 Agency model and wind-down,Website 2026 rewrite (Hong Kong and Quebec pages),2026/2026 Agency model and wind-down/2026-03-27 Website 2026 - New Version/,folder_name+modified
+2026-03,2026/2026 Agency model and wind-down,"Agency-model deck ""March 2026""",2026/2026 Agency model and wind-down/2026-03-30 Ambient-Systems - March 2026.pdf,filename-year+modified
+2026-04-10,2026/2026 Agency model and wind-down,Firebase platform prototype screenshots,2026/2026 Agency model and wind-down/2026-04-10 Prototyping - Software/,folder_name+modified
+2026-05-11,2026/2026 Agency model and wind-down,Singapore company struck off (legal record not in repo),,event-only (COPY-LOG / off-repo record)
+2026-10-02,2026/2026 Agency model and wind-down,Working archive consolidated (source of this repository),,event-only (COPY-LOG / off-repo record)
