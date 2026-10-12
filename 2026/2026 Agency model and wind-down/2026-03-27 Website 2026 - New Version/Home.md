@@ -1,3 +1,5 @@
+> Historical note (Oct 2026): this is the March 2026 website plan and is superseded. Ambient Systems Ltd (Hong Kong) is now the sole active entity; the Quebec entity is closed.
+
 Create a premium, modern, high-conversion ecosystem landing page for Ambient Systems — the unified platform connecting Ambient Systems Limited (Hong Kong, founded 2023) and Solutions Flux D’IA Inc. (Quebec, founded 2024, NEQ 1179623281).
 
 Overall style: Sophisticated fintech ecosystem aesthetic. Deep navy background with subtle tech grid, crisp white typography, and dual accent colors (teal/cyan for the SaaS product + sharp red for the advisory arm). Clean, trustworthy, and premium — similar to Stripe, Notion, or high-end strategy + product platforms. Fully responsive desktop-first with clear mobile adaptation.
