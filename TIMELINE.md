@@ -69,7 +69,9 @@
 - **2025-05-24** - Bold Spirit Award and DMZ applications → [2025-05-24 Bold Spirit Award 2025](2025/2025%20Global%20version%20-%20HK%20Canada%20Japan/2025-05-24%20Bold%20Spirit%20Award%202025/) and [DMZ application folder](2025/2025%20Global%20version%20-%20HK%20Canada%20Japan/2025-05-24%20DMZ%20-%20Backing%20Canadian%20Small%20Businesses/)
 - **2025-12-08** - Global Version pitch deck → [2025-12-08 Ambient Systems - Global Version.pdf](2025/2025%20Global%20version%20-%20HK%20Canada%20Japan/2025-12-08%20Ambient%20Systems%20-%20Global%20Version.pdf)
 
-## 2026 Agency model and wind-down
+## 2026 Ambient Systems Ltd (Hong Kong) active as sole entity; Quebec entity closed
+
+_Folder name `2026 Agency model and wind-down` kept unchanged for link stability._
 
 - **2026-03-13** - Platform codebase snapshot → [ambient-platform-packed.md](2026/2026%20Agency%20model%20and%20wind-down/2026-03-13%20Platform%20code/ambient-platform-packed.md)
 - **2026-03-27** - Agency-model decks and website copy → [2026-03-27 Website 2026 - New Version/](2026/2026%20Agency%20model%20and%20wind-down/2026-03-27%20Website%202026%20-%20New%20Version/)

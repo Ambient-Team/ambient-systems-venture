@@ -1,6 +1,6 @@
 # Ambient Systems - Venture Timeline (2020-2026)
 
-A chronological record of the Ambient Systems venture: smart-building / indoor-climate IoT and machine learning, from the 2020 applications (YC, NUS GRIP Run 4) through the Singapore company, accelerators (SMU, ACE, Panasonic Deep Tech Challenge), the Hong Kong, Canada/Quebec and Japan explorations, to the 2026 agency model and wind-down.
+A chronological record of the Ambient Systems venture: smart-building / indoor-climate IoT and machine learning, from the 2020 applications (YC, NUS GRIP Run 4) through the Singapore company, accelerators (SMU, ACE, Panasonic Deep Tech Challenge), the Hong Kong, Canada/Quebec and Japan explorations, to 2026. As of October 2026, Ambient Systems Ltd (Hong Kong) is the sole active entity; the Quebec entity is closed and the Singapore company was struck off in May 2026.
 
 **This repository is private.** A separate **public** repository will be seeded from an orphan `public-snapshot` branch after review. Internal readiness tooling lives under `_private-tooling/` (excluded from any public export).
 
